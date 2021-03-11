@@ -2,6 +2,10 @@
   "name": "shreyu-react",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "15.8.0",
+    "npm": "7.5.1"
+  },
   "dependencies": {
     "@fullcalendar/bootstrap": "^4.3.0",
     "@fullcalendar/core": "^4.3.1",
